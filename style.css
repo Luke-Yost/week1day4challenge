@@ -1,0 +1,7 @@
+.bg-header-img {
+  background-image: url(https://images.unsplash.com/photo-1506058774676-6360aa0c1584?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80);
+  background-position: center;
+  min-height: 50vh;
+  backdrop-filter: contrast(100);
+  /* opacity: 50%; */
+}
